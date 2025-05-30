@@ -1,8 +1,6 @@
-My Maps
+MyMaps
 
-1. Description
-
-2. Functions
+1. Functions
    - Current location
    - Map Annotation with longitude and latitude
    - Long-Tap Gesture to drop pin
